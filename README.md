@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Witq7
 - 👀 I’m interested in... Programming
-- 🌱 I’m currently learning...Go and modern JavaScript
-- 💞️ I’m looking to collaborate on... Fullstack projects
+- 🌱 I’m currently learning... Go and modern ECMAScript
+- 💞️ I’m looking to collaborate on... Fullstack, selfhosting and terminal projects
 - 📫 How to reach me... Through GitHub message
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like hamsters and dogs
